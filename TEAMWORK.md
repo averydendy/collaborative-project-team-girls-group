@@ -5,7 +5,7 @@
   Exercise 6 B- (Aneesh)
   Exercise 6 A- (Avery)
   Exercise 6 C - (Elizabeth)
-  Exercise 7
+  Exercise 7 Everyone during Sunday meeting
   
 ##Timing-
   Carmen Oct 6~7
@@ -16,5 +16,5 @@
   
 ##Communication-
   Chat through Teams, sending updates when finishing respective sections.
-  In person meeting on Sunday, Oct 11, at 4pm
+  In person meeting on Sunday, Oct 11 at 4pm
   
