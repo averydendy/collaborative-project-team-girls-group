@@ -11,3 +11,13 @@ This repository is a group project for practicing with Git and Github as a team.
 - `README.md`: this file, overview of the project
 
 [This is a link to the r Markdown CheatSheet.](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
+
+- [x] Team Contract
+- [ ] Read Me file
+- [ ] Exercise 5
+- [ ] Exercise 6
+- [ ] Sunday Meeting
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
