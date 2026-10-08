@@ -18,3 +18,10 @@
   Chat through Teams, sending updates when finishing respective sections.
   In person meeting on Sunday, Oct 11 at 4pm
   
+##Tasklist-
+  -[]Team Contract
+  -[]Read Me file
+  -[]Exercise 5
+  -[]Exercise 6
+  -[]Sunday Meeting
+

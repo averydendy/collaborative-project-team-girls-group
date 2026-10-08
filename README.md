@@ -9,3 +9,5 @@ This repository is a group project for practicing with Git and Github as a team.
 - `plots_un.R`: R script for fix merging conflict
 - `TEAMWORK.md`: describes each team members' task and timeline for completion 
 - `README.md`: this file, overview of the project
+
+[This is a link to the r Markdown CheatSheet.](https://rstudio.github.io/cheatsheets/html/rmarkdown.html)
