@@ -1,10 +1,10 @@
 ## Division of Labour
-- Team Contract (Elizabeth)
-- Exercise 4 README(Carmen)
-- Exercise 5 (Morgan)
-- Exercise 6 B (Aneesh)
-- Exercise 6 A (Avery)
-- Exercise 6 C  (Elizabeth)
+- Creating Team Contract "TEAMWORK.md" file and merging with main (Elizabeth)
+- Exercise 4, creating "README.md" and give descriptions of files/folders (Carmen)
+- Exercise 5, added link to R resource, created folder "img", make task list (Morgan)
+- Exercise 6 A, renamed graph (Avery)
+- Exercise 6 B, renamed graph correctly (Avery)
+- Exercise 6 C, commit changes (Morgan)
 - Exercise 7 Everyone during Sunday meeting
   
 ## Timing
@@ -21,10 +21,10 @@
 ## Tasklist-
 
 - [x] Team Contract
-- [ ] Read Me file
-- [ ] Exercise 5
-- [ ] Exercise 6
-- [ ] Sunday Meeting
+- [x] Read Me file
+- [x] Exercise 5
+- [x] Exercise 6
+- [x] Sunday Meeting
 
 ![Girl Group Photo](img/girls.png)
 
